@@ -1,6 +1,6 @@
 ## 👋🏻 Hi there, I'm Minha!
 
-*I’m interested in frontend development, and I believe every click reflects the user’s experience.*
+I’m interested in frontend development, and I believe every click reflects the user’s experience.
 
 <!--
 **sminha/sminha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
