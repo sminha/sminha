@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 | 기간 | 내용 |
 |------|------|
 | 2025.03 - 2025.06 | 치매 예측 서비스 [치매예보](https://github.com/sminha/dementia-forecast) 디자인 및 FE 개발 |
-| 2025.06 - 2025.09 | 의류 사입내역 관리 서비스 [옷장](https://github.com/sminha?tab=repositories) 1인 개발 |
+| 2025.06 - 2025.09 | 의류 사입내역 관리 서비스 [옷장](https://github.com/sminha/clothing-receipt-manger-v2) 1인 개발 |
 
 <br>
 
