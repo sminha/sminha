@@ -1,6 +1,5 @@
-## 👋🏻 Hi there, I'm Minha!
-
-I’m interested in frontend development, and I believe every click reflects the user’s experience.
+## Hi there 👋🏻
+> 과정을 즐기는 개발자 송민하입니다.
 
 <!--
 **sminha/sminha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
