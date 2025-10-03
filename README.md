@@ -23,7 +23,8 @@ Here are some ideas to get you started:
 | 기간 | 내용 |
 |------|------|
 | 2025.03 - 2025.06 | 치매 예측 서비스 [치매예보](https://github.com/sminha/dementia-forecast) 디자인 및 FE 개발 |
-| 2025.06 - 2025.09 | 의류 사입내역 관리 서비스 [옷장](https://github.com/sminha/clothing-receipt-manger-v2) 1인 개발 |
+| 2025.06 - ing | 의류 사입내역 관리 서비스 [옷장](https://github.com/sminha/clothing-receipt-manger-v2) 1인 개발 |
+| 2025.10 - ing | 지도 기반 사진일기 서비스 [지도 일기장](https://github.com/sminha/map-diary) 1인 개발 |
 
 <br>
 
@@ -36,7 +37,7 @@ Here are some ideas to get you started:
 | 2022.09 - 2022.12 | 동국대학교 중앙 영어회화 동아리 MECS 회장 |
 | 2022.09 - 2023.06 | 동국대학교 홍보실 산하 개발팀 동국대 알리미 |
 | 2023.03 - 2023.12 | 동국대학교 IT 교육 봉사 동아리 HI-SW 봉사단 |
-| 2025.09 -  | 대학생 연합 IT 벤처 창업 동아리 SOPT 웹 파트|
+| 2025.09 - ing | 대학생 연합 IT 벤처 창업 동아리 SOPT 웹 파트|
 
 <br>
 
